@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 
-src/fire.js
 
 # testing
 /coverage
